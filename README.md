@@ -1,6 +1,6 @@
 # DevOps & Cloud Monitoring Dashboard
 
-This project is a **barebones** cloud monitoring dashboard using **Flask**, **Prometheus**, **Node Exporter**, and **Grafana**. It allows monitoring of system metrics and a sample Flask application.
+This project is a **barebones** cloud monitoring dashboard using **Flask**, **Prometheus**, **Node Exporter**, and **Grafana**. It allows monitoring of system metrics and a sample Flask application. While this project is a barebones implementation, it lays the groundwork for scaling into a production-grade monitoring system with additional integrations and automation.
 
 ## **Connecting to Your Ubuntu-Based EC2 Instance**
 
