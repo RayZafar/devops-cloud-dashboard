@@ -159,7 +159,7 @@ Once all services are stopped, you can **safely stop the EC2 instance** from the
 
 ## **Future Plans: Automating the Setup**
 
-In the future, I plan to **automate** running these services using Docker and `docker-compose`. Here’s a high-level approach to implement it:
+In the future, I plan to **automate** running these services using Docker and `docker-compose`. I might take the following approach:
 
 ### **1️⃣ Install Docker**
 
@@ -216,6 +216,4 @@ docker-compose up -d --build
 Feel free to **fork and contribute** to improve automation and monitoring!
 
 ---
-
-✅ **Project is now documented!** Let me know if you’d like any final tweaks! 🚀
 
